@@ -29,6 +29,12 @@ const cardView = (cardInfo) => {
             <div class="${cardInfo.iCM}-content-img">
                 <!--this place is just for img, and it is empty for reason -->
                 <!--for a while after I add that play icon -->
+                <div class="card-content-header">
+                    <a href="#">
+                        <span class="card-content-header-icon material-icons">play_arrow</span>
+                    </a>
+                </div>
+                <!--now I do that -->
             </div>
             <div class = 'card-content-head'>
                 <div class="card-content-head-title">
