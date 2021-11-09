@@ -76,51 +76,51 @@ body {
 
 
 .avengers-endgame-content-img {
-    background-image: url("/res/img/avengers.jpg");
+    background-image: url("../img/avengers.jpg");
     background-size: cover;
     padding: 235px 200px;
     /*    padding: 15rem 0;  */
 }
 
 .hobbs-and-shaw-content-img {
-    background-image: url("/res/img/hobbs-and-shaw.jpg");
+    background-image: url("../img/hobbs-and-shaw.jpg");
     background-size: cover;
     padding: 235px 200px
 }
 
 .john-wick-3-content-img {
-    background-image: url("/res/img/john-wick-3.jpg");
+    background-image: url("../img/john-wick-3.jpg");
     background-size: cover;
     padding: 235px 200px
 }
 
 .deadpool-2-content-img {
-    background-image: url("/res/img/deadpool-2.jpg");
+    background-image: url("../img/deadpool-2.jpg");
     background-size: cover;
     padding: 235px 200px
 }
 
 .the-lion-king-content-img {
-    background-image: url("/res/img/the-lion-king.jpg");
+    background-image: url("../img/the-lion-king.jpg");
     background-size: cover;
     padding: 235px 200px
 }
 
 .mad-max-content-img {
-    background-image: url("/res/img/mad-max.jpg");
+    background-image: url("../img/mad-max.jpg");
     background-size: cover;
     padding: 235px 200px
 }
 
 .aquaman-content-img {
-    background-image: url("/res/img/aquaman.jpg");
+    background-image: url("../img/aquaman.jpg");
     background-size: cover;
     /*please notice that this img has a frame, i didnt add that*/
     padding: 235px 200px
 }
 
 .mission-impossible-content-img {
-    background-image: url("/res/img/mission-impossible.jpg");
+    background-image: url("../img/mission-impossible.jpg");
     background-size: cover;
     padding: 235px 200px
 }
